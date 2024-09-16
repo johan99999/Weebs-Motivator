@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+/* Flexbox setup to center the images inside the carousel */
+.carousel{
+    justify-content: center;
+    justify-items: center;
+}
+
+.carousel-item img{
+    margin-top: 70px;
+    margin-left:  auto;
+    margin-right:  auto;
+    width: 50%;
+}
+  
