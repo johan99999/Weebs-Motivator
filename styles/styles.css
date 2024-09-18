@@ -5,12 +5,37 @@ body{
 .carousel{
     justify-content: center;
     justify-items: center;
-}
-
-.carousel-item img{
     margin-top: 70px;
     margin-left:  auto;
     margin-right:  auto;
+}
+
+.carousel-item img{
+    /* margin-top: 70px;*/
+    margin-left:  auto;
+    margin-right:  auto;
     width: 50%;
+}
+
+.welcome {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+
+}
+
+.welcome > h1 ,h5{
+    color: white;
+    text-align: center;
+}
+
+.source {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+
+.card-text{
+    text-align: justify;
 }
   
