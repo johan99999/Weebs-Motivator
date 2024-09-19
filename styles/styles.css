@@ -39,3 +39,27 @@ body{
     text-align: justify;
 }
   
+
+.bawah {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+}
+
+.about{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+}
+
+.paragraf{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    color: white;
+    padding: 30px;
+}
