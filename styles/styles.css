@@ -54,6 +54,13 @@ body{
     text-align: center;
     color: white;
 }
+.workout{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+}
 
 .paragraf{
     margin-top: 100px;
@@ -62,4 +69,17 @@ body{
     text-align: justify;
     color: white;
     padding: 30px;
+}
+
+.illustration{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.illustration img{
+    width: 300px;
+    border: 5px solid blue;
 }
