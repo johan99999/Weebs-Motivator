@@ -68,7 +68,8 @@ body{
     margin-right: auto;
     text-align: justify;
     color: white;
-    padding: 30px;
+    padding-left: 45px;
+    padding-right: 45px;
 }
 
 .illustration{
@@ -77,9 +78,22 @@ body{
     margin-right: auto;
     margin-top: 10px;
     margin-bottom: 25px;
+    padding: 15px;
+    justify-items: center;
 }
 
 .illustration img{
     width: 300px;
     border: 5px solid blue;
+}
+
+a {
+ text-align: center;
+ text-decoration: none;
+}
+
+.tombol{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
