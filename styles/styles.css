@@ -92,8 +92,22 @@ a {
  text-decoration: none;
 }
 
-.tombol{
+.tombol button{
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 10px;
     display: block;
+    border-radius: 30px;
+    width: 300px;
+    height: 50px;
+}
+
+.tombol :hover{
+    color: white;
+    background-color: black;
+    border: 5px solid white;
+}
+
+.source{
+    border-radius: 30px ;
 }
