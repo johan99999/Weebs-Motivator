@@ -1,0 +1,149 @@
+body{
+    background-color: black;
+}
+/* Flexbox setup to center the images inside the carousel */
+.carousel{
+    justify-content: center;
+    justify-items: center;
+    margin-top: 70px;
+    margin-left:  auto;
+    margin-right:  auto;
+}
+
+.carousel-item img{
+    /* margin-top: 70px;*/
+    margin-left:  auto;
+    margin-right:  auto;
+    width: 50%;
+}
+
+.welcome {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+
+}
+
+.welcome > h1 ,h5{
+    color: white;
+    text-align: center;
+}
+
+.source {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+
+.card-text{
+    text-align: justify;
+}
+  
+
+.bawah {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+}
+
+.about{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+}
+.workout{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+}
+.nofap{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+}
+
+.nosmoke{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+}
+.nogirls{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+}
+.religion{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+}
+
+.paragraf{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    color: white;
+    padding-left: 45px;
+    padding-right: 45px;
+}
+
+.illustration{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    padding: 15px;
+    justify-items: center;
+}
+
+.illustration img{
+    width: 300px;
+    border: 5px solid blue;
+}
+
+a {
+ text-align: center;
+ text-decoration: none;
+}
+
+.tombol button{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    display: block;
+    border-radius: 30px;
+    width: 300px;
+    height: 40px;
+}
+
+.tombol :hover{
+    color: white;
+    background-color: black;
+    border: 5px solid white;
+}
+
+.saus button{
+    border-radius: 10px ;
+    
+}
+
+.saus :hover{
+    background-color: black;
+    color: white;
+    
+}
