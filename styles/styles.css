@@ -102,7 +102,7 @@ body{
 }
 
 .illustration{
-    width: 300px;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 10px;
@@ -112,8 +112,16 @@ body{
 }
 
 .illustration img{
-    width: 300px;
+    width: 100%;
+    
     border: 5px solid blue;
+}
+
+.gambar{
+    /* display: inline-block; */
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
 
 a {
